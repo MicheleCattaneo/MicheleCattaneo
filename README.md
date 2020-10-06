@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MicheleCattaneo&count_private=true)
 <!--
 **MicheleCattaneo/MicheleCattaneo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
