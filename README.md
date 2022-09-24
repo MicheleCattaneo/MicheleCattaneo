@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MicheleCattaneo&count_private=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleCattaneo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MicheleCattaneo/MicheleCattaneo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
